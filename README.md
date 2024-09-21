@@ -13,7 +13,3 @@ Contributions and feedback are welcome. Feel free to fork this repository and su
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Special thanks to the [Geometry Dash modding community](discord.gg/geometrydash) for their support and inspiration.
