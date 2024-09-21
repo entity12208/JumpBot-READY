@@ -13,3 +13,6 @@ Contributions and feedback are welcome. Feel free to fork this repository and su
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+## Discord
+<iframe src="https://discord.com/widget?id=1287190143244963902&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
