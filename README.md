@@ -4,7 +4,7 @@
 
 ## Description
 
-JumpBot introduces a unique functionality where, upon pressing CTRL + J and restarting the level, the mod will scan the portal order and then refrain from taking any action. Upon dying in the game, the mod will attempt to retry the level but will jump right before the moment of death. If successful with the next 3 jumps in that position, it will log the outcome to a text file named after the level's name. This information is stored and can be retrieved whenever you return to the level and press CTRL + J, allowing the mod to remember the previous instructions.
+JumpBot introduces a unique functionality where, upon pressing CTRL + J and restarting the level, the mod will scan the portal order and then refrain from taking action. Upon dying in the game, the mod will attempt to retry the level but will jump right before the moment of death. If successful with the next 3 jumps in that position, it will log the outcome to a text file named after the level's name. This information is stored and can be retrieved whenever you return to the level and press CTRL + J, allowing the mod to remember the previous instructions.
 
 ## Contributions
 
@@ -17,4 +17,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Discord
 
 Join [our discord server!](https://discord.gg/WBb7EG3Gte)
-<img src="https://discord.com/widget?id=1287190143244963902&theme=dark" width="350" height="500" />
