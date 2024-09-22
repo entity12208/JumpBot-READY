@@ -17,4 +17,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Discord
 
 Join [our discord server!](https://discord.gg/WBb7EG3Gte)
-<iframe src="https://discord.com/widget?id=1287190143244963902&theme=dark" width="350" height="500" />
+<img src="https://discord.com/widget?id=1287190143244963902&theme=dark" width="350" height="500" />
