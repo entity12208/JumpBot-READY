@@ -1,5 +1,6 @@
 # JumpBot
 [![JumpBot Page](https://github.com/entity12208/JumpBot/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/entity12208/JumpBot/actions/workflows/pages/pages-build-deployment)
+
 <img src="logo.png" width="400" alt="the mod's logo" />
 
 ## Description
