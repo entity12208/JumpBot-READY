@@ -18,19 +18,6 @@ JumpBot introduces a unique functionality where, upon pressing CTRL + J and rest
 
 To install JumpBot, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/entity12208/JumpBot.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd JumpBot
-   ```
-3. Install any necessary dependencies (if applicable):
-   ```bash
-   # For example, if you're using Python
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
