@@ -2,7 +2,7 @@
 
 [![JumpBot Page](https://github.com/entity12208/JumpBot/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/entity12208/JumpBot/actions/workflows/pages/pages-build-deployment)
 
-[![the mod's logo](https://github.com/entity12208/JumpBot/raw/main/logo.png)](https://github.com/entity12208/JumpBot/blob/main/logo.png)
+[![JumpBot](https://github.com/entity12208/JumpBot/raw/main/logo.png)](https://github.com/entity12208/JumpBot/blob/main/logo.png)
 
 ## Description
 
@@ -56,7 +56,7 @@ Join [our discord server](https://discord.gg/WBb7EG3Gte) for assistance or to su
 ## FAQs
 
 **Q: What platforms does JumpBot support?**  
-A: Currently, JumpBot is designed for [specific platforms]. Check the documentation for more details.
+A: Currently, JumpBot is designed for Windows and MacOS. Check the documentation for more details.
 
 **Q: How do I report a bug?**  
 A: If you encounter any issues, please open an issue on GitHub with details about the bug.
