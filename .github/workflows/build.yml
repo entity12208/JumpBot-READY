@@ -29,13 +29,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Checkout Pro
-        uses: actions/checkout@v4
-        with:
-          repository: HJfod/BetterEditPro
-          path: pro
-          token: ${{ secrets.ACCESS_TOKEN }}
-          ref: v6
         
       - name: Build the mod
         uses: geode-sdk/build-geode-mod@main
