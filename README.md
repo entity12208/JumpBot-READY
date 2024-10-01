@@ -1,7 +1,5 @@
 # JumpBot
 
-[![JumpBot Page](https://github.com/entity12208/JumpBot/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/entity12208/JumpBot/actions/workflows/pages/pages-build-deployment)
-
 [![JumpBot](https://github.com/entity12208/JumpBot/raw/main/logo.png)](https://github.com/entity12208/JumpBot/blob/main/logo.png)
 
 ## Description
