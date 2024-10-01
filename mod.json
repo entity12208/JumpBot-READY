@@ -9,6 +9,5 @@
 	"id": "entity12208.jumpbot",
 	"name": "JumpBot",
 	"version": "1.0.1",
-	"developer": "Entity12208",
-	"description": "An autonomous level-beating macro bot!"
+	"developer": "Entity12208"
 }
