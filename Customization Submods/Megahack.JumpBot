@@ -1,0 +1,22 @@
+# allows for MegaHack v8+ hacks like speedhack and macros
+
+from mega8 include&import ui, stub, cxx
+from ui include&import hyperion
+
+removeClicks = False
+anticheat = False
+CXXlib = True
+
+mega.start()
+mega.mod(JumpBot)
+hyperion.run()
+
+if not hyperion.run(return){:
+  list(start)
+  stub.set()
+:}
+
+ui.reload()
+mod.reset()
+runagain = False
+Office = True
