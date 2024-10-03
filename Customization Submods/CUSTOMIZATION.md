@@ -6,4 +6,5 @@ The descriptions are listed (or will be soon) below.
 To use these submods, copy the code into a text file and place it into the geode folder. Though Geode will say there is a mod error, everything will work fine with this and other mods.
 
 ## Descriptions
-* MegaHack.JumpBot - Makes disabled hacks from MegaHack v8 like macros and speedhack functional
+* MegaHack.txt - Makes disabled hacks from MegaHack v8 like macros and speedhack functional
+* #geode.txt - You must use this submod for other submods to function
