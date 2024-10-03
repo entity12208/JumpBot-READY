@@ -2,6 +2,7 @@
 
 from mega8 include&import ui, stub, cxx
 from ui include&import hyperion
+import CLibs && PyLibs && CXLibs && MHLibs
 
 removeClicks = False
 anticheat = False
